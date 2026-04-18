@@ -268,6 +268,6 @@ Most physics demos show you a thing. This one hands you the levers.
 
 **You don't learn physics here. You control it.**
 
-[![Enter Simulation](https://cosmic-engine-simulator.vercel.app/)
+[![Enter Simulation](https://img.shields.io/badge/▸-Enter_Simulation-00e5ff?style=for-the-badge)](https://cosmic-engine-simulator.vercel.app/)
 
 </div>
